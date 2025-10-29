@@ -1,22 +1,22 @@
 // File type icons
 const icons = {
- pdf: "pdf.png",
-  doc: "doc.svg",
-  docx: "docx.png",
-  xls: "xls.svg",
-  xlsx: "xlsx.svg",
-  jpg: "jpg.png",
-  jpeg: "jpeg.png",
-  png: "png.png",
-  gif: "gif.gif",
-  html: "html.svg",
-  css: "css.svg",
-  js: "js.svg",
-  txt: "txt.svg",
-  php: "php.svg",
-  zip: "zip.svg",
-  rar: "rar.svg",
-  default: "default.png"
+ pdf: "https://daneyzp.github.io/DHD-menuel/pdf.png",
+  doc: "https://daneyzp.github.io/DHD-menuel/doc.svg",
+  docx: "https://daneyzp.github.io/DHD-menuel/docx.png",
+  xls: "https://daneyzp.github.io/DHD-menuel/xls.svg",
+  xlsx: "https://daneyzp.github.io/DHD-menuel/xlsx.svg",
+  jpg: "https://daneyzp.github.io/DHD-menuel/jpg.png",
+  jpeg: "https://daneyzp.github.io/DHD-menuel/jpeg.png",
+  png: "https://daneyzp.github.io/DHD-menuel/png.png",
+  gif: "https://daneyzp.github.io/DHD-menuel/gif.gif",
+  html: "https://daneyzp.github.io/DHD-menuel/html.svg",
+  css: "https://daneyzp.github.io/DHD-menuel/css.svg",
+  js: "https://daneyzp.github.io/DHD-menuel/js.svg",
+  txt: "https://daneyzp.github.io/DHD-menuel/txt.svg",
+  php: "https://daneyzp.github.io/DHD-menuel/php.svg",
+  zip: "https://daneyzp.github.io/DHD-menuel/zip.svg",
+  rar: "https://daneyzp.github.io/DHD-menuel/rar.svg",
+  default: "https://daneyzp.github.io/DHD-menuel/default.png"
 };
 
 // Wait until DOM is ready
